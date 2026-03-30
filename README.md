@@ -65,7 +65,7 @@ Go to GitHub and fork this repository to your own account. This creates your own
 
 ### Step 2: Clone Your Fork
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Competitive-Programming.git
+git clone https://github.com/YOUR_GITHUB_USERNAME/Competitive-Programming
 cd Competitive-Programming
 ```
 This creates a local copy of YOUR fork on your device ( called a clone)
@@ -74,7 +74,7 @@ This creates a local copy of YOUR fork on your device ( called a clone)
 This links your clone to the original repo, so you can pull daily questions conviniently:
 
 ```bash
-git remote add upstream https://github.com/sdgniser/Competitive-Programming.git
+git remote add upstream https://github.com/sdgniser/Competitive-Programming
 ```
 
 **Verify your remotes:**
