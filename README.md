@@ -74,7 +74,7 @@ This creates a local copy of YOUR fork on your device ( called a clone)
 This links your clone to the original repo, so you can pull daily questions conviniently:
 
 ```bash
-git remote add upstream https://github.com/MAINTAINER_USERNAME/Competitive-Programming.git
+git remote add upstream https://github.com/sdgniser/Competitive-Programming.git
 ```
 
 **Verify your remotes:**
