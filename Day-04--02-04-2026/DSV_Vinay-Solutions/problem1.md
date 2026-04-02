@@ -1,0 +1,1 @@
+If you take any partial sum of 'a' it can be broken into a partial sum of red and blues. The maximum of each will lead to the maximum value of 'f(a)'. 
